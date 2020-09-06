@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2018.3 (64-bit)
+# SW Build 2405991 on Thu Dec  6 23:36:41 MST 2018
+# IP Build 2404404 on Fri Dec  7 01:43:56 MST 2018
+# Start of session at: Sun Sep  6 09:56:38 2020
+# Process ID: 20311
+# Current directory: /home/sreh/shakti/shakti-soc/fpga/boards/artya7-35t/e-class/fpga_project/e-class/e-class.runs/core_impl_1
+# Command line: vivado -log fpga_top.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source fpga_top.tcl -notrace
+# Log file: /home/sreh/shakti/shakti-soc/fpga/boards/artya7-35t/e-class/fpga_project/e-class/e-class.runs/core_impl_1/fpga_top.vdi
+# Journal file: /home/sreh/shakti/shakti-soc/fpga/boards/artya7-35t/e-class/fpga_project/e-class/e-class.runs/core_impl_1/vivado.jou
+#-----------------------------------------------------------
+source fpga_top.tcl -notrace
